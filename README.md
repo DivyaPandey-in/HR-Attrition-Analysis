@@ -55,4 +55,4 @@ This project helps in understanding employee behavior and can assist HR teams in
 
 
 ## 📷 Dashboard Preview
-![Dashboard](dashboard.png)
+![HR Attrition Dashboard](dashboard.png)
